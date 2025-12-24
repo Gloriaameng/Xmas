@@ -1,0 +1,7 @@
+{
+  "name": "A Christmas Card From Qianyu",
+  "description": "An interactive 3D particle system controlled by hand gestures using MediaPipe and Three.js. Supports various models and a special 'Merry Christmas' mode for Dr. Zhang.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
